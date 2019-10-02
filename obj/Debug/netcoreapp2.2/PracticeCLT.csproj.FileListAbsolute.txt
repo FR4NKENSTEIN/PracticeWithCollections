@@ -1,0 +1,11 @@
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\bin\Debug\netcoreapp2.2\PracticeCLT.deps.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\bin\Debug\netcoreapp2.2\PracticeCLT.runtimeconfig.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\bin\Debug\netcoreapp2.2\PracticeCLT.runtimeconfig.dev.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\bin\Debug\netcoreapp2.2\PracticeCLT.dll
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\bin\Debug\netcoreapp2.2\PracticeCLT.pdb
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\obj\Debug\netcoreapp2.2\PracticeCLT.csprojAssemblyReference.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\obj\Debug\netcoreapp2.2\PracticeCLT.csproj.CoreCompileInputs.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\obj\Debug\netcoreapp2.2\PracticeCLT.AssemblyInfoInputs.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\obj\Debug\netcoreapp2.2\PracticeCLT.AssemblyInfo.cs
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\obj\Debug\netcoreapp2.2\PracticeCLT.dll
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\PracticeCLT\obj\Debug\netcoreapp2.2\PracticeCLT.pdb
